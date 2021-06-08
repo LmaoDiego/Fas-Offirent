@@ -1,0 +1,20 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          #CREAR REPOSITORIO PARA LA DATA DE LOS SERVICIOS DE OFFIRENT
+#          uri: https://github.com/gsinuiri-coder/prueba.FAS
+          searchPaths: config-data
+          username: ${GIT_USER}
+          password: ${GIT_PASSWORD}
+          default-label: "master"
+  security:
+    user:
+      name: root
+      password: s3cr3t

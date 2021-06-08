@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FAS-OffiRent.iml" filepath="$PROJECT_DIR$/.idea/FAS-OffiRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-service/admin-service.iml" filepath="$PROJECT_DIR$/admin-service/admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geographic-service/geographic.iml" filepath="$PROJECT_DIR$/geographic-service/geographic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/office-service/office.iml" filepath="$PROJECT_DIR$/office-service/office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/payment.iml" filepath="$PROJECT_DIR$/payment-service/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-service/registry-service.iml" filepath="$PROJECT_DIR$/registry-service/registry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-service/reservation.iml" filepath="$PROJECT_DIR$/reservation-service/reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user.iml" filepath="$PROJECT_DIR$/user-service/user.iml" />
+    </modules>
+  </component>
+</project>
